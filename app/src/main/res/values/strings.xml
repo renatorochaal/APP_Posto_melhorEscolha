@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PostoApp</string>
+    <string name="opcaodeAbastecer">Saiba a melhor opção para abstecimento do seu carro:</string>
+    <string name="precoAlcool">Preço do Álcool: Ex 1.90</string>
+    <string name="precoGasolina">Preço da Gasolina: Ex 2.40</string>
+    <string name="buttonCalcular">CALCULAR</string>
+    <string name="informe_valor">informe_valor</string>
+</resources>
